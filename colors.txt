@@ -1,0 +1,11 @@
+success
+#29baa5
+
+danger
+#d9534f
+
+info
+#61a2da
+
+warning
+#977cad
